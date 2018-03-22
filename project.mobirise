@@ -33,7 +33,9 @@
       "additionalSetColors": [
         "#000000"
       ]
-    }
+    },
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -330,7 +332,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Long, wide and made of soft, golden sand. Bathing in the sea is a lovely and safe experience.&nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"https://www.theguardian.com/travel/2008/may/21/italy.vasto.beach\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Read more</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://www.google.de/maps/place/Spiaggia+di+Vasto+Marina/@42.1009076,14.7173073,17z/data=!4m13!1m7!3m6!1s0x1330dcf7c598008b:0x36495398aabf9dee!2sLungomare+Cordella,+66054+Marina+di+Vasto+CH,+Italia!3b1!8m2!3d42.1047444!4d14.7174682!3m4!1s0x1330dcf6e2fcf7d3:0xbea7354897afefb6!8m2!3d42.100738!4d14.7215509\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit</a>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://www.google.de/maps/place/Spiaggia+di+Vasto+Marina/@42.1009076,14.7173073,17z/data=!4m13!1m7!3m6!1s0x1330dcf7c598008b:0x36495398aabf9dee!2sLungomare+Cordella,+66054+Marina+di+Vasto+CH,+Italia!3b1!8m2!3d42.1047444!4d14.7174682!3m4!1s0x1330dcf6e2fcf7d3:0xbea7354897afefb6!8m2!3d42.100738!4d14.7215509\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit</a>",
                 "overlayOpacity": "0.3"
               },
               {
@@ -419,7 +421,7 @@
                 "title": "La Piazza Rossetti",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "The main square. Built on the remains of a Roman village called \"Histonium\".&nbsp;<br>Continue swiping to discover some interesting places in the old town.",
+                "text": "The main square built on the remains of a Roman village called \"Histonium\".&nbsp;<br>Continue swiping to discover more interesting places around.",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"https://www.theguardian.com/travel/2008/may/21/italy.vasto.beach\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Read more</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" href=\"https://www.google.de/maps/place/Monumento+a+Gabriele+Rossetti/@42.1113269,14.7076146,19.75z/data=!4m13!1m7!3m6!1s0x1330dc54861d38c5:0x62d0e3c16e438323!2sPiazza+G.+Rossetti,+66054+Vasto+CH,+Italy!3b1!8m2!3d42.1115511!4d14.7081505!3m4!1s0x1330dc548bf56fa1:0xc2b7886f604af30c!8m2!3d42.1111971!4d14.7079857?dcr=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit</a> ",
                 "overlayOpacity": "0.2"
               },
@@ -452,7 +454,7 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "The medieval town",
+                "title": "Il Centro Storico",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Loose yourself in the alleys smelling of pasta al ragù. Try our best snack, a slice of baked pizza.",
@@ -470,7 +472,7 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "The D'Avalos gardens",
+                "title": "I Giardini di Palazzo d'Avalos",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Music, weddings and other special events.&nbsp;",
@@ -488,10 +490,10 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "Loggia Amblingh",
+                "title": "La Loggia Amblingh",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Have a wal on the ancient medieval walls. Enjoy the view of the golden gulf.&nbsp;",
+                "text": "Have a walk on the ancient medieval walls. Enjoy the view of the golden gulf.&nbsp;",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" href=\"https://www.google.de/maps/place/Belvedere+Loggia+Amblingh/@42.1101387,14.7084249,18.25z/data=!4m13!1m7!3m6!1s0x1330dc5445f07403:0xfca5aa71a5c41d4c!2sLoggia+Amblingh,+66054+Vasto+CH,+Italy!3b1!8m2!3d42.1101549!4d14.7094011!3m4!1s0x1330dc54477ead29:0xb1251aad82257dcc!8m2!3d42.1102584!4d14.7096647?dcr=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit</a> ",
                 "overlayOpacity": "0.2"
               },
