@@ -299,7 +299,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/vastomarinabarche-2000x1500.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -497,7 +497,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/fuochi-1366x1000.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
