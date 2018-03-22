@@ -299,7 +299,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/vastomarinabarche-2000x1500.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -311,7 +311,7 @@
                 "title": "Benvenuti a Vasto!",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "This is a beautiful guide crafted for you. Swipe left to start exploring.<br>Click the button to watch a 21 minutes video about Vasto.&nbsp;",
+                "text": "This is a beautiful guide crafted for you. Swipe left to start exploring.<br>Click on the button below to watch a 21 minute video about Vasto.&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"https://www.youtube.com/watch?time_continue=12&amp;v=QCCHh0egdng\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Video</a> ",
                 "overlayOpacity": "0.3"
               },
@@ -326,11 +326,11 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "Spiaggia di Vasto Marina",
+                "title": "La Spiaggia di Vasto Marina",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Long, wide and made of soft, golden sand. Bathing in the sea is a lovely and safe experience.&nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"https://www.theguardian.com/travel/2008/may/21/italy.vasto.beach\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Read more</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://www.google.de/maps/place/Spiaggia+di+Vasto+Marina/@42.1009076,14.7173073,17z/data=!4m13!1m7!3m6!1s0x1330dcf7c598008b:0x36495398aabf9dee!2sLungomare+Cordella,+66054+Marina+di+Vasto+CH,+Italia!3b1!8m2!3d42.1047444!4d14.7174682!3m4!1s0x1330dcf6e2fcf7d3:0xbea7354897afefb6!8m2!3d42.100738!4d14.7215509\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Let's GO!</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"https://www.theguardian.com/travel/2008/may/21/italy.vasto.beach\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Read more</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://www.google.de/maps/place/Spiaggia+di+Vasto+Marina/@42.1009076,14.7173073,17z/data=!4m13!1m7!3m6!1s0x1330dcf7c598008b:0x36495398aabf9dee!2sLungomare+Cordella,+66054+Marina+di+Vasto+CH,+Italia!3b1!8m2!3d42.1047444!4d14.7174682!3m4!1s0x1330dcf6e2fcf7d3:0xbea7354897afefb6!8m2!3d42.100738!4d14.7215509\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit</a>",
                 "overlayOpacity": "0.3"
               },
               {
@@ -348,7 +348,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Take a walk on the sand, head North. The Mermaide of Vasto is waiting for you.&nbsp;<br>\"And you sang , sail to me, let me unfold you, here I am, waiting to hold you..\"",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://www.google.de/maps/dir/''/La+Sirenetta+(Monumento+alla+Bagnante),+Lungomare+Cordella,+Italy/@42.1088915,14.648979,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x1330dc59b09fc9ed:0xf4a1021f04286fcf!2m2!1d14.7190189!2d42.1089128\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Let's GO!</a>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://www.google.de/maps/dir/''/La+Sirenetta+(Monumento+alla+Bagnante),+Lungomare+Cordella,+Italy/@42.1088915,14.648979,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x1330dc59b09fc9ed:0xf4a1021f04286fcf!2m2!1d14.7190189!2d42.1089128\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit</a>",
                 "overlayOpacity": "0.3"
               },
               {
@@ -366,7 +366,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "This is our hidden gem. An unspoiled beach protected by WWF.&nbsp;",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"https://www.lifeinabruzzo.com/punto-della-penna-beach-vasto-bio-diverse-crown/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Read more</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://www.google.de/maps/place/Spiaggia+di+Punta+Penna/@42.1735818,14.7044706,17z/data=!4m12!1m6!3m5!1s0x1330de58453216d7:0x1841657a7de43d33!2sSpiaggia+di+Punta+Penna!8m2!3d42.1738681!4d14.7033763!3m4!1s0x1330de58453216d7:0x1841657a7de43d33!8m2!3d42.1738681!4d14.7033763?dcr=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Let's GO!</a>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"https://www.lifeinabruzzo.com/punto-della-penna-beach-vasto-bio-diverse-crown/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Read more</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://www.google.de/maps/place/Spiaggia+di+Punta+Penna/@42.1735818,14.7044706,17z/data=!4m12!1m6!3m5!1s0x1330de58453216d7:0x1841657a7de43d33!2sSpiaggia+di+Punta+Penna!8m2!3d42.1738681!4d14.7033763!3m4!1s0x1330de58453216d7:0x1841657a7de43d33!8m2!3d42.1738681!4d14.7033763?dcr=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit</a>",
                 "overlayOpacity": "0.2"
               },
               {
@@ -384,7 +384,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Heading North.. our best kept secret. The beach and the ancient fishing platform: il \"Trabocco\".",
-                "buttons": "  <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://www.google.de/maps/dir/''/''/data=!4m5!4m4!1m0!1m2!1m1!1s0x1330de48f193607b:0xe5589c304fe9f034?sa=X&amp;ved=2ahUKEwjWjo778f_ZAhVSmbQKHaf4CjwQ9RcwAHoECAAQCA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Let's GO!</a>",
+                "buttons": "  <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://www.google.de/maps/dir/''/''/data=!4m5!4m4!1m0!1m2!1m1!1s0x1330de48f193607b:0xe5589c304fe9f034?sa=X&amp;ved=2ahUKEwjWjo778f_ZAhVSmbQKHaf4CjwQ9RcwAHoECAAQCA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit</a>",
                 "overlayOpacity": "0.2"
               },
               {
@@ -402,7 +402,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Feeling hungry? Try our fish soup \"Lu Bruduatte\". The best meal in town.",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"https://www.deliciousitaly.com/abruzzo-itineraries/vasto\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Find a Restaurant</a> ",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"https://www.deliciousitaly.com/abruzzo-itineraries/vasto\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Read more</a> ",
                 "overlayOpacity": "0.2"
               },
               {
@@ -420,7 +420,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "The main square. Built on the remains of a Roman village called \"Histonium\".&nbsp;<br>Continue swiping to discover some interesting places in the old town.",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"https://www.theguardian.com/travel/2008/may/21/italy.vasto.beach\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Read more</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" href=\"https://www.google.de/maps/place/Monumento+a+Gabriele+Rossetti/@42.1113269,14.7076146,19.75z/data=!4m13!1m7!3m6!1s0x1330dc54861d38c5:0x62d0e3c16e438323!2sPiazza+G.+Rossetti,+66054+Vasto+CH,+Italy!3b1!8m2!3d42.1115511!4d14.7081505!3m4!1s0x1330dc548bf56fa1:0xc2b7886f604af30c!8m2!3d42.1111971!4d14.7079857?dcr=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Let's GO!</a> ",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"https://www.theguardian.com/travel/2008/may/21/italy.vasto.beach\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Read more</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" href=\"https://www.google.de/maps/place/Monumento+a+Gabriele+Rossetti/@42.1113269,14.7076146,19.75z/data=!4m13!1m7!3m6!1s0x1330dc54861d38c5:0x62d0e3c16e438323!2sPiazza+G.+Rossetti,+66054+Vasto+CH,+Italy!3b1!8m2!3d42.1115511!4d14.7081505!3m4!1s0x1330dc548bf56fa1:0xc2b7886f604af30c!8m2!3d42.1111971!4d14.7079857?dcr=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit</a> ",
                 "overlayOpacity": "0.2"
               },
               {
@@ -438,7 +438,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "The castle built by Caldora Family to protect us from the barbarian invasions.",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" href=\"https://www.google.de/maps/place/Castello+Caldoresco/@42.1118145,14.7058677,17z/data=!3m1!4b1!4m5!3m4!1s0x1330dc5480393b61:0xe4c9e1154f7e8f8f!8m2!3d42.1118105!4d14.7080564?dcr=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Let's GO!</a> ",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" href=\"https://www.google.de/maps/place/Castello+Caldoresco/@42.1118145,14.7058677,17z/data=!3m1!4b1!4m5!3m4!1s0x1330dc5480393b61:0xe4c9e1154f7e8f8f!8m2!3d42.1118105!4d14.7080564?dcr=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit</a> ",
                 "overlayOpacity": "0.2"
               },
               {
@@ -456,7 +456,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Loose yourself in the alleys smelling of pasta al ragù. Try our best snack, a slice of baked pizza.",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" href=\"https://www.google.de/maps/place/Panificio+Stanisci/@42.1112679,14.7068029,17z/data=!3m1!4b1!4m5!3m4!1s0x1330dc54650b4a1f:0xb726f7146c671040!8m2!3d42.1112679!4d14.7089916?dcr=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Let's GO!</a> ",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" href=\"https://www.google.de/maps/place/Panificio+Stanisci/@42.1112679,14.7068029,17z/data=!3m1!4b1!4m5!3m4!1s0x1330dc54650b4a1f:0xb726f7146c671040!8m2!3d42.1112679!4d14.7089916?dcr=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit</a> ",
                 "overlayOpacity": "0.2"
               },
               {
@@ -474,7 +474,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Music, weddings and other special events.&nbsp;",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" href=\"https://www.google.de/maps?q=giardini+di+palazzo+d%27avalos&amp;oe=utf-8&amp;gws_rd=cr&amp;dcr=0&amp;um=1&amp;ie=UTF-8&amp;sa=X&amp;ved=0ahUKEwiphceP_f_ZAhVP-aQKHSeqDjoQ_AUICygC\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Let's GO!</a> ",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" href=\"https://www.google.de/maps?q=giardini+di+palazzo+d%27avalos&amp;oe=utf-8&amp;gws_rd=cr&amp;dcr=0&amp;um=1&amp;ie=UTF-8&amp;sa=X&amp;ved=0ahUKEwiphceP_f_ZAhVP-aQKHSeqDjoQ_AUICygC\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit</a> ",
                 "overlayOpacity": "0.2"
               },
               {
@@ -492,12 +492,12 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Have a wal on the ancient medieval walls. Enjoy the view of the golden gulf.&nbsp;",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" href=\"https://www.google.de/maps/place/Belvedere+Loggia+Amblingh/@42.1101387,14.7084249,18.25z/data=!4m13!1m7!3m6!1s0x1330dc5445f07403:0xfca5aa71a5c41d4c!2sLoggia+Amblingh,+66054+Vasto+CH,+Italy!3b1!8m2!3d42.1101549!4d14.7094011!3m4!1s0x1330dc54477ead29:0xb1251aad82257dcc!8m2!3d42.1102584!4d14.7096647?dcr=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Let's GO!</a> ",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" href=\"https://www.google.de/maps/place/Belvedere+Loggia+Amblingh/@42.1101387,14.7084249,18.25z/data=!4m13!1m7!3m6!1s0x1330dc5445f07403:0xfca5aa71a5c41d4c!2sLoggia+Amblingh,+66054+Vasto+CH,+Italy!3b1!8m2!3d42.1101549!4d14.7094011!3m4!1s0x1330dc54477ead29:0xb1251aad82257dcc!8m2!3d42.1102584!4d14.7096647?dcr=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit</a> ",
                 "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/fuochi-1366x1000.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -510,7 +510,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "And when the sun goes down, have a relaxing walk, enjoy an ice cream and let your kids play.",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" href=\"https://www.google.de/maps/place/Belvedere+Loggia+Amblingh/@42.1101387,14.7084249,18.25z/data=!4m13!1m7!3m6!1s0x1330dc5445f07403:0xfca5aa71a5c41d4c!2sLoggia+Amblingh,+66054+Vasto+CH,+Italy!3b1!8m2!3d42.1101549!4d14.7094011!3m4!1s0x1330dc54477ead29:0xb1251aad82257dcc!8m2!3d42.1102584!4d14.7096647?dcr=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Let's GO!</a> ",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" href=\"https://www.google.de/maps/place/Belvedere+Loggia+Amblingh/@42.1101387,14.7084249,18.25z/data=!4m13!1m7!3m6!1s0x1330dc5445f07403:0xfca5aa71a5c41d4c!2sLoggia+Amblingh,+66054+Vasto+CH,+Italy!3b1!8m2!3d42.1101549!4d14.7094011!3m4!1s0x1330dc54477ead29:0xb1251aad82257dcc!8m2!3d42.1102584!4d14.7096647?dcr=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit</a> ",
                 "overlayOpacity": "0.2"
               }
             ]
